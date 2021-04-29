@@ -1,6 +1,6 @@
-import React from 'react';
-import Calculator from './components/Calculator';
-import NumberProvider from './components/NumberProvider';
+import React from "react";
+import Calculator from "./components/Calculator";
+import NumberProvider from "./components/NumberProvider";
 
 const App = () => (
   <NumberProvider>
