@@ -7,6 +7,7 @@ const Display = () => {
   return (
     <div>
       <h2
+        title="display-numbers"
         className={
           storedNumber && storedNumber.length > 12
             ? "long-main-display"
